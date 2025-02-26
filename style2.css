@@ -1,0 +1,30 @@
+/* .head{
+color: red;
+
+}
+
+.para{
+    color: red;
+}
+
+.head2{
+    color: red;
+
+} */
+
+#container{
+    background-color: aqua;
+    border: red solid 20px;
+    height: 150px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+
+.link{
+    display: flex;
+    gap: 15%;
+    list-style: none;
+}
