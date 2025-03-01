@@ -1,30 +1,22 @@
-/* .head{
-color: red;
-
-}
-
-.para{
-    color: red;
-}
-
-.head2{
-    color: red;
-
-} */
-
-#container{
-    background-color: aqua;
-    border: red solid 20px;
-    height: 150px;
-    color: red;
+#container {
+    font-family: "Arial", sans-serif;
+    background-color: ;
+    color: darkgreen;
+    font-size: 28px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 5%;
 }
 
-.link{
+#container2{
+    font-family: "Arial", sans-serif;
+    background-color: ;
+    color: rgb(100, 32, 0);
+    font-size: 28px;
     display: flex;
-    gap: 15%;
-    list-style: none;
+}
+#container2 {
+    font-family: "Arial", sans-serif;
+    background-color: ;
+    color: rgb(100, 0, 0);
+    font-size: 28px;
+    display: flex;
 }
